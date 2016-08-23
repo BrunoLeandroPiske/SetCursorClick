@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(178): warning C4101: 'length': unreferenced local variable
+ConsoleApplication1.cpp(179): warning C4101: 'buffer': unreferenced local variable
+  Generating code
+  All 279 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Bruno\Documents\Estudo C++\SetCursorClick\Auto Click\Release\ConsoleApplication1.exe

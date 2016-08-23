@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\bruno\documents\estudo c++\setcursorclick\auto click\consoleapplication1\consoleapplication1.cpp(178): warning C4101: 'length': unreferenced local variable
+c:\users\bruno\documents\estudo c++\setcursorclick\auto click\consoleapplication1\consoleapplication1.cpp(179): warning C4101: 'buffer': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Bruno\Documents\Estudo C++\SetCursorClick\Auto Click\Debug\ConsoleApplication1.exe
